@@ -1,0 +1,63 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "subscriptionId": {
+      "value": "3257c2fb-f9e9-4969-8c7a-36b0eefb31fb"
+    },
+    "resourceGroupName": {
+      "value": "GitHub-Copilot-Challenges"
+    },
+    "name": {
+      "value": "contacts-app02"
+    },
+    "location": {
+      "value": "West Europe"
+    },
+    "hostingPlanName": {
+      "value": "ASP-GitHubCopilotChallenges-a576"
+    },
+    "serverFarmResourceGroup": {
+      "value": "GitHub-Copilot-Challenges"
+    },
+    "alwaysOn": {
+      "value": true
+    },
+    "ftpsState": {
+      "value": "FtpsOnly"
+    },
+    "sku": {
+      "value": "Standard"
+    },
+    "skuCode": {
+      "value": "S1"
+    },
+    "numberOfWorkers": {
+      "value": "1"
+    },
+    "workerSize": {
+      "value": "0"
+    },
+    "workerSizeId": {
+      "value": "0"
+    },
+    "currentStack": {
+      "value": "dotnet"
+    },
+    "phpVersion": {
+      "value": "OFF"
+    },
+    "netFrameworkVersion": {
+      "value": "v4.0"
+    },
+    "repoUrl": {
+      "value": "https://github.com/github-cloudlabsuser-2063/Contact-Database-Application"
+    },
+    "branch": {
+      "value": "master"
+    },
+    "oidcUserIdentityName": {
+      "value": "contacts-app02-id-8adf"
+    }
+  }
+}
