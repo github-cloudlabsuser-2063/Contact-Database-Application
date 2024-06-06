@@ -15,7 +15,7 @@
       "value": "West Europe"
     },
     "hostingPlanName": {
-      "value": "ASP-GitHubCopilotChallenges-a576"
+      "value": "ASP-GitHubCopilotChallenges-894c"
     },
     "serverFarmResourceGroup": {
       "value": "GitHub-Copilot-Challenges"
@@ -57,7 +57,7 @@
       "value": "master"
     },
     "oidcUserIdentityName": {
-      "value": "contacts-app02-id-8adf"
+      "value": "contacts-app02-id-8b35"
     }
   }
 }
